@@ -10,8 +10,8 @@
   <groupId>dev.rusthero</groupId>
   <artifactId>version-checker</artifactId>
   <version>1.0.0</version>
-  <name>Version Tracker</name>
-  <description>Simple library which utilizes the GitHub API to check if software is up-to-date.</description>
+  <name>Version Checker</name>
+  <description>Library to check if software is up-to-date via GitHub API.</description>
   <url>https://github.com/rusthero/version-checker</url>
   <licenses>
     <license>

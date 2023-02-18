@@ -27,11 +27,11 @@
         {
           "name": "version-checker-1.0.0.jar",
           "url": "version-checker-1.0.0.jar",
-          "size": 3717,
-          "sha512": "6344bbab40d6f66bd93ff6ad01d7ce9c0013689bf55f9079af32ce6ddfdeaa77a7cb735fe85a560ccada492cafc3e69bf2ce4eccece240b1b8fe16c88f16693c",
-          "sha256": "99db5f0c06d1f177bf7c7afda928c0ba62f90c901abe4cb46b65e743ac348206",
-          "sha1": "8234c19f00cf37b1eedf35d9abeda87144ac9bd5",
-          "md5": "18f94cc16dfc430251c42eb05f7881b5"
+          "size": 3217,
+          "sha512": "e1a41f9cf04a8b1d837aff9ecc7314db9cd402a3022398b68c0ab575d3a41ce533f181981d336b3cbb58a2007ebfe27ab2a43f01f46b4621e819dcc592544f97",
+          "sha256": "14f55b0316867aee1197bd9559123d5bd330fbc03d6260b872907b8eea9d6101",
+          "sha1": "a3c57a22d31b02727e72fdd4caa4c661a68755b2",
+          "md5": "39ece3b5424b25ce0dba28cf959c5c6c"
         }
       ]
     },
@@ -57,11 +57,11 @@
         {
           "name": "version-checker-1.0.0.jar",
           "url": "version-checker-1.0.0.jar",
-          "size": 3717,
-          "sha512": "6344bbab40d6f66bd93ff6ad01d7ce9c0013689bf55f9079af32ce6ddfdeaa77a7cb735fe85a560ccada492cafc3e69bf2ce4eccece240b1b8fe16c88f16693c",
-          "sha256": "99db5f0c06d1f177bf7c7afda928c0ba62f90c901abe4cb46b65e743ac348206",
-          "sha1": "8234c19f00cf37b1eedf35d9abeda87144ac9bd5",
-          "md5": "18f94cc16dfc430251c42eb05f7881b5"
+          "size": 3217,
+          "sha512": "e1a41f9cf04a8b1d837aff9ecc7314db9cd402a3022398b68c0ab575d3a41ce533f181981d336b3cbb58a2007ebfe27ab2a43f01f46b4621e819dcc592544f97",
+          "sha256": "14f55b0316867aee1197bd9559123d5bd330fbc03d6260b872907b8eea9d6101",
+          "sha1": "a3c57a22d31b02727e72fdd4caa4c661a68755b2",
+          "md5": "39ece3b5424b25ce0dba28cf959c5c6c"
         }
       ]
     },
@@ -77,11 +77,11 @@
         {
           "name": "version-checker-1.0.0-javadoc.jar",
           "url": "version-checker-1.0.0-javadoc.jar",
-          "size": 84318,
-          "sha512": "8259fb7a67f13560f61636e6c606443311dd0c0b723afecbfa573c101838062f9b8f8de795ba4c49bf6d72bb9e25e55e6e7d1b3a87abfd7990e016a03659ac7d",
-          "sha256": "e2319750391126ee2385f01c179cf8a544f578d56d85757e0f07c35b93de5d26",
-          "sha1": "0ce526739252f9cf763e673312b276c0b85703ce",
-          "md5": "ea5fef0f16877c543a58510dc9dab8d1"
+          "size": 81616,
+          "sha512": "2fbad57c6b2f5692e964e9ed27746e76b11af871971b29062b871283a5e4389a25dce15bc974b5486c04572618da48f9c001d266d916c3a7c5b1fd93dc25d676",
+          "sha256": "d72d18cfd11fda9e72e9505a81daab8ca617cbc76f37f5ad6e63d9f95031efcd",
+          "sha1": "10dc5fa5bab918c3771ad5d4d142531ffa778108",
+          "md5": "ed2c30441eda1e8f1e45b12b932aada1"
         }
       ]
     },
@@ -97,11 +97,11 @@
         {
           "name": "version-checker-1.0.0-sources.jar",
           "url": "version-checker-1.0.0-sources.jar",
-          "size": 3689,
-          "sha512": "dfbcd78507dbb53bb434aa71fe86bd04af4477ac7bb5c9beda0ae318916948e587d04e06eb1cf9e26d85a2dfcca9ce82906f0ccf0f16441b9d947e47de333577",
-          "sha256": "c3e35d27fc32802a302f182d4bd3b7518ba02fba90e38731b43a1c8c25d138d5",
-          "sha1": "bbb7754838cb04d6c6e963119db4c8e7cf3e3ce5",
-          "md5": "b83c6728cf33b877647f5ff22e7b5ada"
+          "size": 3293,
+          "sha512": "fefc2b5bf3b6b2b4af6481378f4253496470696711c95c8da2ce916f596b89ff4eff6b59fb159f82bb347c7054eb535353d8b676e8d3897f1f396be9d7e2e596",
+          "sha256": "3b71a5ddf1efaf7464beb1b7d2c7d7552f74bb9fa1cf5a6c455a060007e267f1",
+          "sha1": "05e62485d22452af4a7e5944b034cc2055df3c2b",
+          "md5": "e6a8b531a5682868c4a27bc9a7793d7b"
         }
       ]
     }
