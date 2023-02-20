@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"dev.rusthero.versionchecker","l":"GitHubVersionChecker"},{"p":"dev.rusthero.versionchecker","l":"RateLimitExceededException"},{"p":"dev.rusthero.versionchecker","l":"ReleaseOrRepoNotFoundException"},{"p":"dev.rusthero.versionchecker","l":"Version"}];updateSearchResults();
